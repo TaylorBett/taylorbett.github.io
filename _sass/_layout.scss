@@ -2,9 +2,10 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: none;
+    border-bottom: none;
     min-height: 56px;
+    box-shadow: 0 2px 5px rgba(0,0,0,.26);
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -20,7 +21,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $brand-color;
     }
 }
 
@@ -115,7 +116,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $brand-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
