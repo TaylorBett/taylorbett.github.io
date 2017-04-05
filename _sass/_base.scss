@@ -25,6 +25,10 @@ body {
     font-kerning: normal;
 }
 
+h2, h3 {
+    color: #28fa8b;
+}
+
 
 
 /**
@@ -91,15 +95,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #B2CCD6;
+    color: #6cdffb;
     text-decoration: none;
 
     &:visited {
-        color: darken(#B2CCD6, 15%);
+        color: darken(#6cdffb, 15%);
     }
 
     &:hover {
-        color: darken(#B2CCD6, 15%);
+        color: darken(#6cdffb, 15%);
         text-decoration: none;
     }
 }
