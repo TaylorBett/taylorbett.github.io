@@ -5,7 +5,7 @@ date:   2017-04-05 00:00:00 +1000
 categories: jekyll update
 ---
 
-Test area for the theme and code snippet.
+Test area for the theme and code snippet theming.
 
 Colours sourced from [Material Design Theme](https://github.com/equinusocio/material-theme), matching my IDE theme
 

@@ -23,8 +23,8 @@ Notes on [Crash Course On Multi-Layer Perceptron Neural Networks - Machine Learn
 * AKA Transfer function
 * Maps summed weighted input to output of neuron
 * Historically used with threshold, ie. summed input > 0.5 then activate (binary output, 1.0 or 0.0)
-* *Sigmoid* function outputs value between 0.0 and 1.0 with S shaped distribution
-* *Tanh* function outputs S shaped dist. over -1 to 1
+* **Sigmoid** function outputs value between 0.0 and 1.0 with S shaped distribution
+* **Tanh** function outputs S shaped dist. over -1 to 1
 
 ## Networks
 ### Input or Visible Layer
@@ -32,7 +32,7 @@ Notes on [Crash Course On Multi-Layer Perceptron Neural Networks - Machine Learn
 
 ### Hidden Layers
 * (Not directly exposed to input)
-* *Deep* learning can refer to a large number of hidden layers in the neural net being used
+* **Deep** learning can refer to a large number of hidden layers in the neural net being used
 
 ### Output Layer
 * May have an activation function and output float values or a binary outcome
