@@ -10,7 +10,8 @@ Notes on [Crash Course On Multi-Layer Perceptron Neural Networks - Machine Learn
 
 * Universal approximation algorithm
 * Built out of artificial neurons or sometimes ‘perceptrons’
-### Inputs  > Weights > Activation > Output
+* Flow of individual neuron:
+  Inputs  > Weights > Activation > Output
 
 ### Weights
 * Bias
@@ -27,6 +28,7 @@ Notes on [Crash Course On Multi-Layer Perceptron Neural Networks - Machine Learn
 * **Tanh** function outputs S shaped dist. over -1 to 1
 
 ## Networks
+
 ### Input or Visible Layer
 * Often drawn one neuron per input datapoint. These just pass the value into the next layer, and *do not* have a transformative activation function
 
@@ -39,6 +41,7 @@ Notes on [Crash Course On Multi-Layer Perceptron Neural Networks - Machine Learn
 * May have multiple neurons producing values that are then used for  Multiple-Class Classification (ie. Iris problem)
 
 ## Training Networks
+
 ### Data Preparation
 * Data must be numerical. Categorical data can be transformed into numerical data for this purpose
 * Data must be scaled in a consistent way. Often normalised between 0 and 1, or standardised to have a mean of 0 and standard deviation of 1.
