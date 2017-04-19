@@ -17,3 +17,5 @@ github_username:  taylorbett
 
 # Build settings
 markdown: kramdown
+gems:
+  - jemoji
