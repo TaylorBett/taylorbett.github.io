@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Controlling LIFX lights from your terminal"
+title:  "AWS Elasticsearch"
 date:   2017-06-23 14:10:00 +1000
 categories: review
 tags: [notes, search, aws, elasticsearch]
 ---
 
-# AWS Elasticsearch
 #Career/AWSElasticsearch
 
 ### Elasticsearch
