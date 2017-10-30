@@ -25,8 +25,9 @@ body {
     font-kerning: normal;
 }
 
-h2, h3 {
+h1, h2, h3, h4 {
     color: #28fa8b;
+    font-family: $feature-font-family; 
 }
 
 
@@ -205,4 +206,8 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+.font-secondary {
+    opacity: 0.7;
 }
