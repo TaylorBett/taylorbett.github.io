@@ -1,7 +1,8 @@
 ---
 layout: page
-title: R&eacute;sum&eacute;
-permalink: /resume/
+nav_item: CV
+title: Curriculum Vitae
+permalink: /cv/
 ---
 
 ### Experience
@@ -9,6 +10,12 @@ permalink: /resume/
 #### <a href="https://belong.com.au" target="_blank">Telstra Belong</a>
 
 Front End Developer <span class="font-secondary">(Nov 2016 - Present)</span>
+
+* React, Redux
+* Agile, SCRUM 
+* Data visualisation with D3
+* Knockout, MVC, JQuery
+* Working in cross-functional teams with Back End Development, design, content layers
 
 #### <a href="http://app.surfposeidon.io" target="_blank">Surf Poseidon</a>
 
@@ -39,7 +46,7 @@ Front End Developer <span class="font-secondary">(Mar 2015 - Nov 2016)</span>
 
 ### Awards and Achievements
 * Innovation Prize, Telstra IOT Hackathon 2015
-* Runner up, Deloitte Hack the Dot 2015
+* Runner up, Deloitte International Hackathon 2015
 * Collegiate Scholarship, Bond University
 * Academic Scholarship, The Geelong College
 
