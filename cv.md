@@ -7,7 +7,7 @@ permalink: /cv/
 
 ### Experience
 
-#### <a href="https://belong.com.au" target="_blank">Telstra Belong</a>
+#### <a href="https://belong.com.au" target="_blank">:telephone: Telstra - Belong</a>
 
 Front End Developer <span class="font-secondary">(Nov 2016 - Present)</span>
 
@@ -18,7 +18,7 @@ Front End Developer <span class="font-secondary">(Nov 2016 - Present)</span>
 * Working in cross-functional teams with Back End Development, design, content layers
 * Peer reviews, some pair programming
 
-#### <a href="http://app.surfposeidon.io" target="_blank">Surf Poseidon</a>
+#### <a href="http://app.surfposeidon.io" target="_blank">:surfer: Poseidon</a>
 
 Cofounder <span class="font-secondary">(July 2017 - Present)</span>
 
@@ -29,7 +29,7 @@ Cofounder <span class="font-secondary">(July 2017 - Present)</span>
 * UX, creative design and consideration
 * Peer reviews, pair programming
 
-#### <a href="https://www2.deloitte.com" target="_blank">Deloitte Digital</a>
+#### <a href="https://www2.deloitte.com" target="_blank">:necktie: Deloitte Digital</a>
 
 Front End Developer <span class="font-secondary">(Mar 2015 - Nov 2016)</span>
 
