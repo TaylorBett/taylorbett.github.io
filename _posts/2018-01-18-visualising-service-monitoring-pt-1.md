@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visualising service monitoring with d3 - Pt I"
+title:  "Data vis with d3 + react: Service monitoring app"
 date:   2018-01-17 16:00:00 +1000
 categories: hobby
 tags: [code, d3, data, monitoring, datavisualisation, mongo, node, express, react, javascript]
