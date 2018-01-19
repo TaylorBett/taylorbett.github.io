@@ -4,6 +4,9 @@ layout: default
 <article class="post">
 
   <header class="post-header">
+    {% if page.parent.link %}
+      <a href="{{ page.parent.link }}"><h4 class="post-parent">{{ page.parent.text }}</h4></a>
+    {% endif %}
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
