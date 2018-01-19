@@ -1,7 +1,7 @@
 ---
 layout: page
 nav_item: CV
-title: Curriculum Vitae
+title: CV
 permalink: /cv/
 ---
 
