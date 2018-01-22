@@ -34,12 +34,13 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $brand-color;
         line-height: $base-line-height;
+        font-size: 18px;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
-            margin-right: 20px;
+            margin-right: 26px;
         }
     }
 
@@ -88,7 +89,7 @@
             &:not(:last-child) {
                 margin-right: 0;
             }
-            margin-left: 20px;
+            margin-left: 26px;
         }
     }
 }
