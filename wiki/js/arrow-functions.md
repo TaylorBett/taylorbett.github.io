@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arrow functions
-permalink: /wiki/javascript/arrow-functions
+permalink: /wiki/javascript/arrow-functions/
 parent:
     text: Javascript
     link: /wiki/javascript

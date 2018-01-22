@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Default parameter values
-permalink: /wiki/javascript/default-parameter-values
+permalink: /wiki/javascript/default-parameter-values/
 parent:
     text: Javascript
     link: /wiki/javascript

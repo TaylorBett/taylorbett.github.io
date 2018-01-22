@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Variable declaration
-permalink: /wiki/javascript/variable-declaration
+permalink: /wiki/javascript/variable-declaration/
 parent:
     text: Javascript
     link: /wiki/javascript
