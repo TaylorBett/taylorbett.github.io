@@ -5,6 +5,6 @@ title: Wiki
 permalink: /wiki/
 ---
 
-#### Javascript
-- [Variable declaration](/wiki/variable-declaration)
-- [Arrow functions](/wiki/arrow-functions)
+#### [Javascript](/wiki/javascript)
+- [Variable declaration](/wiki/javascript/variable-declaration)
+- [Arrow functions](/wiki/javascript/arrow-functions)
