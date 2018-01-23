@@ -5,6 +5,8 @@ title: Wiki
 permalink: /wiki/
 ---
 
+My personal wiki of notes and knowledge, WIP.
+
 #### [Javascript](/wiki/javascript/)
 - [Variable declaration](/wiki/javascript/variable-declaration/)
 - [Arrow functions](/wiki/javascript/arrow-functions/)
