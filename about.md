@@ -5,9 +5,11 @@ title: About
 permalink: /about/
 ---
 
-### Me
+Want to know if your role or company is the right fit for me? See [Hire Me](/hire-me/).
 
-Hire me! Check out my [CV](/cv/)
+Looking for my professional experience? [Check out my CV](/cv/)
+
+### Me
 
 Current location: [Melbourne, Australia](https://www.google.com.au/maps/place/Melbourne+VIC/@-37.971237,144.4926947,9z/data=!3m1!4b1!4m5!3m4!1s0x6ad646b5d2ba4df7:0x4045675218ccd90!8m2!3d-37.8136276!4d144.9630576).
 
