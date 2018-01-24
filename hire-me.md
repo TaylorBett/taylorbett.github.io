@@ -9,14 +9,17 @@ Please find below roles and environments that I am looking to work in, and find 
 
 If you are looking for my professional experience, [see my CV](/cv/).
 
+Current location: [:earth_asia: Melbourne, Australia](https://www.google.com.au/maps/place/Melbourne+VIC/@-37.971237,144.4926947,9z/data=!3m1!4b1!4m5!3m4!1s0x6ad646b5d2ba4df7:0x4045675218ccd90!8m2!3d-37.8136276!4d144.9630576).
+
 ### Roles
 
 I am currently considering mid-term contracting and full-time/permanent roles as a Senior Front End Developer or Front End Developer on a project by project basis.
 
-Some responsibilities I am looking for in these roles are: 
-- Front End architecture (stack choice)
+Some responsibilities I am looking for in these roles are:
+- Front End architecture
 - Front End build tooling and project setup
 - Front End build and design
+- React + Redux/Mobx architecture and implementation
 - Data visualisation and transformation
 
 ### Values
@@ -24,6 +27,7 @@ Some responsibilities I am looking for in these roles are:
 Aspects of a role that I look for when evaluating offers/position.
 
 Important: 
+- Tech stack
 - Interesting work/challenges and data
 - Data-driven/data-centric product
 - Pleasant working space + culture
