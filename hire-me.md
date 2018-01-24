@@ -14,11 +14,25 @@ If you are looking for my professional experience, [see my CV](/cv/).
 I am currently considering mid-term contracting and full-time/permanent roles as a Senior Front End Developer or Front End Developer on a project by project basis.
 
 Some responsibilities I am looking for in these roles are: 
-- Front End architecture
+- Front End architecture (stack choice)
 - Front End build tooling and project setup
 - Front End build and design
-- High impact on the product/company performance
 - Data visualisation and transformation
+
+### Values
+
+Aspects of a role that I look for when evaluating offers/position.
+
+Important: 
+- Interesting work/challenges and data
+- Data-driven/data-centric product
+- Pleasant working space + culture
+- Flexible working (hours, WFH/Remote options)
+
+Nice to have: 
+- High impact on the product/company performance and direction
+- Good internal career progression/promotion structure
+- Personal alignment with project mission
 
 ### Locations
 
