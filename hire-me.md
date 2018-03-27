@@ -7,7 +7,7 @@ permalink: /hire-me/
 
 Please find below roles and environments that I am looking to work in, and find out what I value in my work.
 
-If you are looking for my professional experience, [see my CV](/cv/).
+If you are looking for my professional experience, [see my CV](/cv/) or [download a pdf version]({{ site.url }}/assets/pdf/taylor_bett_cv.pdf) :printer:.
 
 Current location: [:earth_asia: Melbourne, Australia](https://www.google.com.au/maps/place/Melbourne+VIC/@-37.971237,144.4926947,9z/data=!3m1!4b1!4m5!3m4!1s0x6ad646b5d2ba4df7:0x4045675218ccd90!8m2!3d-37.8136276!4d144.9630576).
 
