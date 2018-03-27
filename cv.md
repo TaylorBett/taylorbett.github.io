@@ -5,6 +5,8 @@ title: CV
 permalink: /cv/
 ---
 
+:printer: [Download a .pdf version]({{ site.url }}/assets/pdf/taylor_bett_cv.pdf)
+
 ### Experience
 
 #### <a href="https://belong.com.au" target="_blank">:telephone: Telstra - Belong</a>
