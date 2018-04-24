@@ -59,8 +59,9 @@ Front End Developer <span class="font-secondary">(Mar 2015 - Nov 2016)</span>
 * Academic Scholarship, The Geelong College
 
 ### Interests and affiliations
-* Mechanical keyboard enthusiast <span class="font-secondary">(Planck ortho MX Clears | Vortex Poker RGB MX Browns)</span>
 * ADF Army Reserves, Private, Infantry Corps <span class="font-secondary">(Feb 2016 - Feb 2017)</span>
+* Mechanical keyboard enthusiast <span class="font-secondary">(Planck ortho MX Clears | Vortex Poker RGB MX Browns)</span>
+
 
 ### Education
 * Bachelor of Interactive Media Design, Bond University (2014)
