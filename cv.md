@@ -14,7 +14,9 @@ permalink: /cv/
 Front End Developer <span class="font-secondary">(Nov 2016 - Present)</span>
 
 * React, Redux
-* Agile, SCRUM 
+* Unit Testing - Jest
+* Snapshot Testing - Enzyme
+* Agile, SCRUM
 * Data visualisation with D3
 * Knockout, MVC, JQuery
 * Working in cross-functional teams with Back End Development, design, content layers
@@ -24,8 +26,9 @@ Front End Developer <span class="font-secondary">(Nov 2016 - Present)</span>
 
 Cofounder <span class="font-secondary">(July 2017 - Present)</span>
 
-* React + Rails + Webpacker
-* Data ingestion and transformation
+* React, Redux
+* Ruby on Rails API
+* Data ingestion and transformation (Ruby)
 * Data visualisation with D3
 * UI design + build
 * UX, creative design and consideration
