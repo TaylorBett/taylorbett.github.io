@@ -17,6 +17,7 @@ My personal wiki of notes and knowledge, WIP.
     - [Map](/wiki/javascript/array-methods/map/)
     - [Filter](/wiki/javascript/array-methods/filter/)
     - [Reduce](/wiki/javascript/array-methods/reduce/)
+- [Generators](/wiki/javascript/generators/)
 
 #### [Redux](/wiki/redux/)
 - [Middleware](/wiki/redux/middleware/)
