@@ -23,7 +23,7 @@ My personal wiki of notes and knowledge, WIP.
 - [Styled Components](/wiki/react/styled-components)
 - [Testing](/wiki/react/styled-components)
 - [Context Providers](/wiki/react/context-providers)
-- [React 16 Tricks](/wiki/react/react-16-tricks)
+- [React 16 - What's new](/wiki/react/react-16-features)
 
 #### [Redux](/wiki/redux/)
 - [Middleware](/wiki/redux/middleware/)
