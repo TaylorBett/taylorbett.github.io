@@ -19,8 +19,15 @@ My personal wiki of notes and knowledge, WIP.
     - [Reduce](/wiki/javascript/array-methods/reduce/)
 - [Generators](/wiki/javascript/generators/)
 
+#### [React](/wiki/react/)
+- [Styled Components](/wiki/react/styled-components)
+- [Testing](/wiki/react/styled-components)
+- [Context Providers](/wiki/react/context-providers)
+- [React 16 Tricks](/wiki/react/react-16-tricks)
+
 #### [Redux](/wiki/redux/)
 - [Middleware](/wiki/redux/middleware/)
+- [Testing](/wiki/redux/testing/)
 
 #### [Webpack](/wiki/webpack/)
 - [Code splitting](/wiki/webpack/code-splitting/)
