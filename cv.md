@@ -24,7 +24,7 @@ Front End Developer <span class="font-secondary">(Nov 2016 - Present)</span>
 
 #### <a href="http://app.surfposeidon.io" target="_blank">:surfer: Poseidon</a>
 
-Cofounder <span class="font-secondary">(July 2017 - Present)</span>
+Cofounder <span class="font-secondary">(July 2017 - Feb 2018)</span>
 
 * React, Redux
 * Ruby on Rails API
