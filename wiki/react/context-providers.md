@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testing
+title: Context Providers
 permalink: /wiki/react/context-providers/
 parent:
     text: React
